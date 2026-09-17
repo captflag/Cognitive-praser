@@ -1,0 +1,17 @@
+FROM: procurement@acme-apparel.example
+TO: quotes@millworks-textiles.example
+SUBJECT: RFQ - Spring line body panels
+
+Hi team, please quote the following for our Spring cut-and-sew run.
+
+Material: Organic cotton jersey, 240 gsm
+Dimensions: Body panel 600 x 900 mm, tol +/-2mm
+Quantity: 12000 units
+Finish: Garment-dyed, enzyme washed
+Delivery: Needed at NJ warehouse within 45 days
+
+Tech-pack PDF and the 2D panel drawing are attached (see drawing rev C).
+Let us know if anything is unclear.
+
+Thanks,
+Procurement, Acme Apparel
